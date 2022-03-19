@@ -9,7 +9,6 @@ COPY --from=alpine-go-build /root/go/bin/ .
 
 ENV AEAD="AEAD_CHACHA20_POLY1305"
 ENV PASSWORD="123456789"
-ENV PORT="8080"
 
 EXPOSE 8080/tcp
 EXPOSE 8080/udp
