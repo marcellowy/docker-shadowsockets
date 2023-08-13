@@ -1,6 +1,7 @@
+# Deprecated: use https://github.com/shadowsocks/shadowsocks-rust replace
 # shadownsockets
-
 #### 
+
 shadownsockets
 
 #### Docker Build
